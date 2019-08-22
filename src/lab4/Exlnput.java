@@ -11,7 +11,7 @@ public class Exlnput {
          System.out.print("Please,entered an integer:");
          int x = scanner.nextInt();
 
-         System.out.println ("Your entered integer: "+y);
+         System.out.println ("Your entered integer: "+x);
 
          //input double
         System.out.print("Please,enter double: ");
