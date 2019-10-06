@@ -6,7 +6,7 @@ public class ex1 {
         int x = 100, y = 20;
 
         //if
-        if (x < y && x==100) {
+        if (x < y && x==100 || y>10) {
             //statemets
             System.out.println("x less than y.");
             System.out.println("Bye.");
