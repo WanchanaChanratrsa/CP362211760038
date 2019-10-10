@@ -13,16 +13,16 @@ public class ex8 {
 
         for (int i = 1; i <=8 ; i++) {
             for (int j = 1; j <= i ; j++) {
-                System.out.println(j+"");
+                System.out.print(j+"");
             }//for j
             System.out.println();
         }//for i
-        System.out.println("\n\n");
+        System.out.print("\n\n");
 
         int count =1;
         for (int i = 1; i <=8 ; i++) {
             for (int j = 1; j <= i; j++) {
-                System.out.println(count + " ");
+                System.out.print(count + " ");
                 count++;
             }//for
             System.out.println();
